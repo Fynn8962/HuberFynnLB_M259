@@ -24,7 +24,7 @@ Somit sind sechs nummerische Daten und drei kategorische Daten vorhanden. Ein Be
 **Datenschutz**
 Die Lizenz CC0: Public Domain beschreibt dass das Werk von den Urheberrechten befreit und der Öffentlichen zur freien Nutzung überlassen ist. Der Datensatz enthält keine Personenbezogenen Daten welche irgendwelche Datenschutzbestimmungen verletzen könnte. Ausserdem Verzichtet der Ersteller des Datensatzes auf Credits oder erwähnung der Quelle des Datensatzes, da er alle Rechte an dem Werk aufgegeben hat. Trotzdem schadet es nicht wenn man dem Urheber des Tatensatzes Credits gibt für seine Arbeit.
 
-<a href="[url](https://www.kaggle.com/datasets/mysarahmadbhat/bmw-used-car-listing/data)">Datensatz</a>
+<a href="https://www.kaggle.com/datasets/mysarahmadbhat/bmw-used-car-listing/data">Datensatz</a>                              
 <a href="https://creativecommons.org/publicdomain/zero/1.0/">Lizenz</a>
 
 
