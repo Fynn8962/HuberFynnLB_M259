@@ -4,9 +4,9 @@ Lösungen mit Machine Learning entwickeln
 
 &nbsp;
 
-## 10.03.2025
+# 10.03.2025
 
-**Mein Datensatz**                   
+## Mein Datensatz                 
 Der Datensatz besteht aus Informationen über Gebrauchtwagen der Marke BMW und deren Preis. Der Datensatz enthält Details wie:
 
 - model = BMW Model
