@@ -1,6 +1,5 @@
 # HuberFynnLB_M259            
-Leistungsbeurteilung Modul 295         
-Lösungen mit Machine Learning entwickeln     
+Leistungsbeurteilung Modul 295 - Lösungen mit Machine Learning entwickeln     
 
 &nbsp;
 
