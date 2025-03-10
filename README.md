@@ -7,5 +7,6 @@ Lösungen mit Machine Learning entwickeln
 ## 10.03.2025
 
 **Mein Datensatz**
-
+Der Datensatz bestet aus Informationen über Gebrauchtwagen der Makre BMW und deren Preis. Der Datensatz enthält Details wie 
+- dadad
 
