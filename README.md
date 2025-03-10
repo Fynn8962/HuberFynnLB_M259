@@ -21,7 +21,7 @@ Der Datensatz besteht aus Informationen über Gebrauchtwagen der Marke BMW und d
 
 Somit sind sechs nummerische Daten und drei kategorische Daten vorhanden. Ein Beispiel für Felder, die in Bezug zueinander stehen, ist die Abhängigkeit von price und mileage. Gebrauchtwagen mit mehr gelaufenen Meilen verkaufen sich meistens günstiger aus Gebrauchtwagen mit wenig gelaufenen Meilen. Es gibt sicher auch Beziehungen zwischen dem Preis und dem Getriebe oder der Treibstoffart, diese sind jedoch nicht direkt ersichtlich und werden zusätzlich durch andere Faktoren beeinflusst. 
 
-**Datenschutz**
+**Datenschutz**                    
 Die Lizenz CC0: Public Domain beschreibt dass das Werk von den Urheberrechten befreit und der Öffentlichen zur freien Nutzung überlassen ist. Der Datensatz enthält keine Personenbezogenen Daten welche irgendwelche Datenschutzbestimmungen verletzen könnte. Ausserdem Verzichtet der Ersteller des Datensatzes auf Credits oder erwähnung der Quelle des Datensatzes, da er alle Rechte an dem Werk aufgegeben hat. Trotzdem schadet es nicht wenn man dem Urheber des Tatensatzes Credits gibt für seine Arbeit.
 
 <a href="https://www.kaggle.com/datasets/mysarahmadbhat/bmw-used-car-listing/data">Datensatz</a>                              
