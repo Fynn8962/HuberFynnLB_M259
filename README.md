@@ -30,5 +30,5 @@ Die <a href="https://creativecommons.org/publicdomain/zero/1.0/">Lizenz</a> CC0:
 
 &nbsp;
 
-# 00.00.0000
+# dd.mm.2025
 Teil 2
