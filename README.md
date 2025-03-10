@@ -5,6 +5,7 @@ Lösungen mit Machine Learning entwickeln
 &nbsp;
 
 # 10.03.2025
+Teil 1: Datenbeschaffung
 
 ## Mein Datensatz                 
 Der Datensatz besteht aus Informationen über Gebrauchtwagen der Marke BMW und deren Preis. Der Datensatz enthält Details wie:
