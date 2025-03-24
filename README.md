@@ -31,6 +31,12 @@ Die <a href="https://creativecommons.org/publicdomain/zero/1.0/">Lizenz</a> CC0:
 &nbsp;
 
 # 24.03.2025
-Teil 2:
+Teil 2:                           
 Teil-2 im hochgeladenen [Notitzbuch](https://github.com/Fynn8962/HuberFynnLB_M259/blob/main/data_description.ipynb)
 
+&nbsp;
+
+&nbsp;
+
+# dd.mm.2025                
+Teil 3: 
