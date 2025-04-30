@@ -38,5 +38,6 @@ Teil-2 im hochgeladenen [Notitzbuch](https://github.com/Fynn8962/HuberFynnLB_M25
 
 &nbsp;
 
-# dd.mm.2025                
-Teil 3: 
+# 28.04.2025                
+Teil 3:             
+Teil-3 im hochgeladenen [Notitzbuch](https://github.com/Fynn8962/HuberFynnLB_M259/blob/main/model.ipynb)
