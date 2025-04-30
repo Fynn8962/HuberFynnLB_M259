@@ -32,7 +32,7 @@ Die <a href="https://creativecommons.org/publicdomain/zero/1.0/">Lizenz</a> CC0:
 
 # 24.03.2025
 Teil 2:                           
-Teil-2 im hochgeladenen [Notitzbuch](https://github.com/Fynn8962/HuberFynnLB_M259/blob/main/data_description.ipynb)
+Teil-2 als Jupyter-File hochgeladenen [Notitzbuch](https://github.com/Fynn8962/HuberFynnLB_M259/blob/main/data_description.ipynb)
 
 &nbsp;
 
@@ -40,4 +40,4 @@ Teil-2 im hochgeladenen [Notitzbuch](https://github.com/Fynn8962/HuberFynnLB_M25
 
 # 28.04.2025                
 Teil 3:             
-Teil-3 im hochgeladenen [Notitzbuch](https://github.com/Fynn8962/HuberFynnLB_M259/blob/main/model.ipynb)
+Teil-3 als Jupyter-File hochgeladenen [Notitzbuch](https://github.com/Fynn8962/HuberFynnLB_M259/blob/main/model.ipynb)
