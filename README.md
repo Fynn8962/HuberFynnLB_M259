@@ -41,3 +41,11 @@ Teil-2 als Jupyter-File hochgeladenen [Notitzbuch](https://github.com/Fynn8962/H
 # 28.04.2025                
 Teil 3:             
 Teil-3 als Jupyter-File hochgeladenen [Notitzbuch](https://github.com/Fynn8962/HuberFynnLB_M259/blob/main/model.ipynb)
+
+&nbsp;
+
+&nbsp;
+
+# 05.05.2025                
+Teil 4:             
+Teil-4 als Jupyter-File hochgeladenen [Notitzbuch](https://github.com/Fynn8962/HuberFynnLB_M259/blob/main/evaluation.ipynb)
